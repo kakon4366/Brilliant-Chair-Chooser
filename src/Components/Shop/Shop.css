@@ -8,6 +8,11 @@
 	grid-gap: 20px;
 	padding: 0 20px;
 }
+.cart-container {
+	background-color: blanchedalmond;
+	padding: 20px;
+	border-radius: 8px;
+}
 
 @media screen and (max-width: 992px) {
 	.product-container {
