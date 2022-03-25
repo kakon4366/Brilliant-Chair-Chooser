@@ -16,4 +16,9 @@
 .close-button {
 	position: absolute;
 	right: 20px;
+	border: none;
+	cursor: pointer;
+	padding: 5px;
+	border-radius: 50%;
+	color: #8a1919;
 }

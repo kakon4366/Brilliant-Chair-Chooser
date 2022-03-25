@@ -28,3 +28,6 @@
 .cart-button:hover {
 	background-color: black;
 }
+.button-icon {
+	margin-left: 5px;
+}
