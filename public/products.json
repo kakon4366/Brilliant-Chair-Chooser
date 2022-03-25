@@ -5,17 +5,17 @@
        "price":262,
        "img":"https://img.freepik.com/free-photo/blue-dining-room-chair-room-with-gray-walls_181624-30430.jpg?size=626&ext=jpg&uid=R22139353&ga=GA1.2.1925426595.1648220865"
     },
-    {
-       "id":2,
-       "name":"Furniture-modern-studio chir",
-       "price":189,
-       "img":"https://img.freepik.com/free-photo/furniture-modern-studio-lifestyle-green_1122-1837.jpg?size=626&ext=jpg&uid=R22139353&ga=GA1.2.1925426595.1648220865"
-    },
+     {
+      "id":2,
+      "name":"Classic armchair",
+      "price":169,
+      "img":"https://img.freepik.com/free-psd/classic-armchair-white_176382-1903.jpg?t=st=1648229195~exp=1648229795~hmac=c6ecfbc528e2d8518425d95ed9384c26c718ab9aed13177671be91704496b94e&w=826"
+   },
     {
        "id":3,
        "name":"Old wooden armchair",
        "price":189,
-       "img":"https://img.freepik.com/free-photo/old-wooden-armchair_1194-1167.jpg?size=338&ext=jpg&uid=R22139353&ga=GA1.2.1925426595.1648220865"
+       "img":"https://img.freepik.com/free-photo/vintage-white-sofa_1203-6727.jpg?w=900"
     },
     {
        "id":4,
@@ -48,11 +48,11 @@
        "img":"https://img.freepik.com/free-photo/blue-dining-room-chair-room-with-gray-walls_181624-30422.jpg?size=626&ext=jpg&uid=R22139353&ga=GA1.2.1925426595.1648220865"
     },
     {
-       "id":9,
-       "name":"Home appliance seat",
-       "price":169,
-       "img":"https://img.freepik.com/free-photo/home-appliance-seat-interior-ergonomic-sign_1172-512.jpg?size=338&ext=jpg&uid=R22139353&ga=GA1.2.1925426595.1648220865"
-    },
+      "id":9,
+      "name":"Furniture-modern-studio chir",
+      "price":189,
+      "img":"https://img.freepik.com/free-photo/furniture-modern-studio-lifestyle-green_1122-1837.jpg?size=626&ext=jpg&uid=R22139353&ga=GA1.2.1925426595.1648220865"
+   },
     {
        "id":10,
        "name":"Vertical-shot-wooden-chair",
