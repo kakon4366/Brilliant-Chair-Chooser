@@ -23,6 +23,9 @@
 	.shop-container {
 		grid-template-columns: 1fr;
 	}
+	.cart-container {
+		margin: 50px 20px;
+	}
 }
 @media screen and (max-width: 576px) {
 	.product-container {

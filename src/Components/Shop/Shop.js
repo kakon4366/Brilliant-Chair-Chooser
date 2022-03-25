@@ -5,6 +5,7 @@ import './Shop.css';
 
 const Shop = () => {
     const [products, setProducts] = useState([]);
+    const [cart, setCart] = useState([]);
     
     useEffect( () => {
 
@@ -14,15 +15,22 @@ const Shop = () => {
 
     }, [])
 
+    const addToCartHandler = (product) => {
+
+        const newCart = [...cart, product];
+        setCart(newCart)
+
+    }
+
     return (
         <div className='shop-container'>
             <div className='product-container'>
                 {
-                    products.map(product => <Product key={product.id} product={product}></Product>)
+                    products.map(product => <Product addToCartHandler={addToCartHandler} key={product.id} product={product}></Product>)
                 }
             </div>
             <div className='cart-container'>
-                <Cart></Cart>
+                <Cart cart={cart}></Cart>
             </div>
         </div>
     );
