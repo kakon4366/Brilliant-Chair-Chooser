@@ -16,14 +16,17 @@ const Shop = () => {
     }, [])
 
     const addToCartHandler = (addProduct) => {
-
         const exists = cart.find(product => product.id === addProduct.id);
         if(!exists){
             const newCart = [...cart, addProduct];
             setCart(newCart);
         }
-
     }
+
+    const chooseAgainHandler = () => {
+        setCart([]);
+    }
+
 
     return (
         <div className='shop-container'>
@@ -33,7 +36,7 @@ const Shop = () => {
                 }
             </div>
             <div className='cart-container'>
-                <Cart cart={cart}></Cart>
+                <Cart chooseAgainHandler={chooseAgainHandler} cart={cart}></Cart>
             </div>
         </div>
     );
