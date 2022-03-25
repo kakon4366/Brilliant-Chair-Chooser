@@ -1,2 +1,28 @@
 .cart {
 }
+.choose-button {
+	text-transform: uppercase;
+	padding: 12px 22px;
+	background-color: transparent;
+	display: block;
+	margin: 12px 0;
+	cursor: pointer;
+	border-radius: 3px;
+	transition: all 0.3s;
+}
+.choose-1 {
+	border: 1px solid #2267a8;
+	color: #2267a8;
+}
+.choose-again {
+	border: 1px solid #791560;
+	color: #791560;
+}
+.choose-1:hover {
+	background-color: #2267a8;
+	color: #fff;
+}
+.choose-again:hover {
+	background-color: #791560;
+	color: #fff;
+}
