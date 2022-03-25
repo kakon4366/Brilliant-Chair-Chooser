@@ -1,0 +1,74 @@
+[
+    {
+       "id":1,
+       "name":"Blue dining chair",
+       "price":262,
+       "img":"https://img.freepik.com/free-photo/blue-dining-room-chair-room-with-gray-walls_181624-30430.jpg?size=626&ext=jpg&uid=R22139353&ga=GA1.2.1925426595.1648220865"
+    },
+    {
+       "id":2,
+       "name":"Furniture-modern-studio chir",
+       "price":189,
+       "img":"https://img.freepik.com/free-photo/furniture-modern-studio-lifestyle-green_1122-1837.jpg?size=626&ext=jpg&uid=R22139353&ga=GA1.2.1925426595.1648220865"
+    },
+    {
+       "id":3,
+       "name":"Old wooden armchair",
+       "price":189,
+       "img":"https://img.freepik.com/free-photo/old-wooden-armchair_1194-1167.jpg?size=338&ext=jpg&uid=R22139353&ga=GA1.2.1925426595.1648220865"
+    },
+    {
+       "id":4,
+       "name":"Beautiful shot stylish grey chair",
+       "price":275,
+       "img":"https://img.freepik.com/free-photo/beautiful-shot-stylish-grey-chair-isolated-white-background_181624-25232.jpg?size=338&ext=jpg&uid=R22139353&ga=GA1.2.1925426595.1648220865"
+    },
+    {
+       "id":5,
+       "name":"Comfortable office chair",
+       "price":295,
+       "img":"https://img.freepik.com/free-photo/comfortable-office-chair_1385-1386.jpg?size=338&ext=jpg&uid=R22139353&ga=GA1.2.1925426595.1648220865"
+    },
+    {
+       "id":6,
+       "name":"Beautiful shot modern black grey chair",
+       "price":310,
+       "img":"https://img.freepik.com/free-photo/beautiful-shot-modern-black-grey-chair-isolated-white_181624-22598.jpg?size=338&ext=jpg&uid=R22139353&ga=GA1.2.1925426595.1648220865"
+    },
+    {
+       "id":7,
+       "name":"Green lifestyle chair",
+       "price":129,
+       "img":"https://img.freepik.com/free-photo/green-lifestyle-chair-white-background-furniture_1122-1833.jpg?size=626&ext=jpg&uid=R22139353&ga=GA1.2.1925426595.1648220865"
+    },
+    {
+       "id":8,
+       "name":"Blue dining room chair",
+       "price":170,
+       "img":"https://img.freepik.com/free-photo/blue-dining-room-chair-room-with-gray-walls_181624-30422.jpg?size=626&ext=jpg&uid=R22139353&ga=GA1.2.1925426595.1648220865"
+    },
+    {
+       "id":9,
+       "name":"Home appliance seat",
+       "price":169,
+       "img":"https://img.freepik.com/free-photo/home-appliance-seat-interior-ergonomic-sign_1172-512.jpg?size=338&ext=jpg&uid=R22139353&ga=GA1.2.1925426595.1648220865"
+    },
+    {
+       "id":10,
+       "name":"Vertical-shot-wooden-chair",
+       "price":155,
+       "img":"https://img.freepik.com/free-photo/vertical-shot-wooden-chair-white_181624-33157.jpg?size=338&ext=jpg&uid=R22139353&ga=GA1.2.1925426595.1648220865"
+    },
+    {
+       "id":11,
+       "name":"Grey-comfortable-armchair",
+       "price":284,
+       "img":"https://img.freepik.com/free-photo/grey-comfortable-armchair-isolated-white-background_181624-25295.jpg?size=338&ext=jpg&uid=R22139353&ga=GA1.2.1925426595.1648220865"
+    },
+    {
+       "id":12,
+       "name":"Closeup shot dark brown chair",
+       "price":309,
+       "img":"https://img.freepik.com/free-photo/closeup-shot-dark-brown-leather-armchair_181624-22622.jpg?size=338&ext=jpg&uid=R22139353&ga=GA1.2.1925426595.1648220865"
+    }
+ ]
