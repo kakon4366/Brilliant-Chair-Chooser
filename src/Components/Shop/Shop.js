@@ -15,10 +15,13 @@ const Shop = () => {
 
     }, [])
 
-    const addToCartHandler = (product) => {
+    const addToCartHandler = (addProduct) => {
 
-        const newCart = [...cart, product];
-        setCart(newCart)
+        const exists = cart.find(product => product.id === addProduct.id);
+        if(!exists){
+            const newCart = [...cart, addProduct];
+            setCart(newCart);
+        }
 
     }
 

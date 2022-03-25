@@ -4,6 +4,9 @@ import './Cart.css';
 
 const Cart = ({cart}) => {
 
+    const index = Math.round(Math.random() * (cart.length - 1));
+    console.log(cart[index]);
+
     return (
         <div className='cart'>
             <h3>Selected Chair</h3>
