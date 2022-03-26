@@ -1,0 +1,12 @@
+.qustion-ans {
+	background-color: rgb(245, 173, 106);
+	padding: 50px 20px;
+}
+.qustion-ans h2 {
+	text-decoration: underline;
+	color: #333;
+}
+.qustion-ans .ans {
+	font-weight: 700;
+	font-style: italic;
+}
