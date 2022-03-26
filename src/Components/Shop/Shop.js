@@ -28,7 +28,6 @@ const Shop = () => {
         setChooseProduct([])
     }
 
-
     return (
         <div className='shop-container'>
             <div className='product-container'>
