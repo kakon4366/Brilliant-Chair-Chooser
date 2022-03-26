@@ -23,8 +23,9 @@ const Shop = () => {
         }
     }
 
-    const chooseAgainHandler = () => {
+    const chooseAgainHandler = (setChooseProduct) => {
         setCart([]);
+        setChooseProduct([])
     }
 
 

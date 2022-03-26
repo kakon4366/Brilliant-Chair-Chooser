@@ -27,7 +27,7 @@ const Cart = ({cart, chooseAgainHandler}) => {
                 <h3>{name ? name : ''}</h3>
             </div>
             <button onClick={cart.length === 0 ? undefined : chooseSingleProductHandler} className='choose-button choose-1'>Choose 1 For Me</button>
-            <button onClick={chooseAgainHandler} className='choose-button choose-again'>Choose Again</button>
+            <button onClick={ () => chooseAgainHandler(setChooseProduct)} className='choose-button choose-again'>Choose Again</button>
 
         </div>
     );
